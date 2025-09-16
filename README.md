@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Olá, eu sou Amelia Cavalcanti!
 
-<!--
-**ameliacavalcanti/ameliacavalcanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Atualmente cursando Técnico em Informática no CEET Giuseppe Altoé. Tenho paixão por tecnologia, especialmente nas áreas de **back-end** e **análise de dados**.
 
-Here are some ideas to get you started:
+## 🚀 Principais Skills
+- **Python** 🐍
+- **C#** ⚙️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Em desenvolvimento
+- **Eco Sensor**: Projeto focado em soluções sustentáveis e tecnologia aplicada ao meio ambiente. *Em breve mais detalhes!*
+
+## 💡 Interesses
+- Desenvolvimento Back-end
+- Análise e visualização de dados
+- Projetos que unem tecnologia e impacto social
+
+## 📚 Repositórios em Destaque
+- [livros_poo](https://github.com/ameliacavalcanti/livros_poo)
+- [simulador-de-loteria](https://github.com/ameliacavalcanti/simulador-de-loteria)
+- [atividade_portifolio](https://github.com/ameliacavalcanti/atividade_portifolio)
+- [sistema_avaliacao_alunos](https://github.com/ameliacavalcanti/sistema_avaliacao_alunos)
+- [nome_reverso](https://github.com/ameliacavalcanti/nome_reverso)
+
+---
+
+✨ Buscando sempre aprender, compartilhar conhecimento e contribuir para projetos que façam a diferença!
