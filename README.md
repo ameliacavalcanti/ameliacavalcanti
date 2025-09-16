@@ -1,26 +1,37 @@
-# 👋 Olá, eu sou Amelia Cavalcanti!
+# 👋 Olá, eu sou Amélia Cavalcanti  
 
-🎓 Atualmente cursando Técnico em Informática no CEET Giuseppe Altoé. Tenho paixão por tecnologia, especialmente nas áreas de **back-end** e **análise de dados**.
-
-## 🚀 Principais Skills
-- **Python** 🐍
-- **C#** ⚙️
-
-## 🌱 Em desenvolvimento
-- **Eco Sensor**: Projeto focado em soluções sustentáveis e tecnologia aplicada ao meio ambiente. *Em breve mais detalhes!*
-
-## 💡 Interesses
-- Desenvolvimento Back-end
-- Análise e visualização de dados
-- Projetos que unem tecnologia e impacto social
-
-## 📚 Repositórios em Destaque
-- [livros_poo](https://github.com/ameliacavalcanti/livros_poo)
-- [simulador-de-loteria](https://github.com/ameliacavalcanti/simulador-de-loteria)
-- [atividade_portifolio](https://github.com/ameliacavalcanti/atividade_portifolio)
-- [sistema_avaliacao_alunos](https://github.com/ameliacavalcanti/sistema_avaliacao_alunos)
-- [nome_reverso](https://github.com/ameliacavalcanti/nome_reverso)
+🎓 Estudante de **Técnico em Informática** no CEET Giuseppe Altoé  
+💻 Apaixonada por **back-end** e **análise de dados**, sempre explorando como a tecnologia pode resolver problemas reais e gerar impacto positivo.  
 
 ---
 
-✨ Buscando sempre aprender, compartilhar conhecimento e contribuir para projetos que façam a diferença!
+## 🚀 Habilidades
+- **Linguagens:** Python 🐍 | C# ⚙️  
+- **Banco de Dados:** SQLite | MySQL  
+- **Web:** HTML | CSS | FastAPI | JSON
+
+---
+
+## 🌱 Projetos em desenvolvimento
+- **EcoSensor** → Projeto sustentável que une **tecnologia + meio ambiente**, com integração entre sensores, banco de dados e visualização web. *(em breve no GitHub!)*  
+
+---
+
+## 💡 Interesses
+- Desenvolvimento **Back-end**  
+- **Banco de Dados** & Análise de Dados  
+- Projetos que unem **tecnologia, criatividade e impacto social**  
+- Integração com **Arduino e IoT**  
+
+---
+
+## 📚 Repositórios em Destaque
+🔹 [livros_poo](https://github.com/ameliacavalcanti/livros_poo) → Exercícios práticos em C#  
+🔹 [simulador-de-loteria](https://github.com/ameliacavalcanti/simulador-de-loteria) → Simulação simples de sorteio em C#  
+🔹 [meu-blog](https://github.com/ameliacavalcanti/meu-blog) → Blog pessoal desenvolvido em HTML e CSS
+🔹 [site-direito]([link](https://github.com/ameliacavalcanti/SiteDireito)) → Site informativo em HTML, CSS e JS
+
+---
+
+✨ Sempre em busca de **aprender, criar e compartilhar** conhecimento.  
+🌙 Acredito que a tecnologia pode ser não só funcional, mas também criativa e transformadora.  
