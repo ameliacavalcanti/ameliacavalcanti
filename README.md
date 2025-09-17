@@ -29,8 +29,8 @@ Minha essência mistura lógica, arte e propósito — criando projetos que unem
 ---
 
 ## 📚 Repositórios em Destaque
-🔹 [livros_poo](https://github.com/ameliacavalcanti/livros_poo) → Exercícios práticos em C#  
-🔹 [simulador-de-loteria](https://github.com/ameliacavalcanti/simulador-de-loteria) → Simulação simples de sorteio em C#  
+🔹 [cadastro-livros](https://github.com/ameliacavalcanti/cadastro-livros) → Exercício prático de cadastro em C#  
+🔹 [sistema-lanchonete](https://github.com/ameliacavalcanti/sistema-lanchonete) → Sistema simples de lanchonete em C#  
 🔹 [site-direito]([link](https://github.com/ameliacavalcanti/SiteDireito)) → Site informativo em HTML, CSS e JS
 🔹 [meu-blog](https://github.com/ameliacavalcanti/meu-blog) → Blog pessoal desenvolvido em HTML e CSS
 
