@@ -1,4 +1,4 @@
-# 🌙 Amelia Cavalcanti
+# 🌙 Amélia Cavalcanti
 
 👩‍💻 Estudante de **Técnico em Informática** no **CEET Giuseppe Altoé**  
 ✨ Apaixonada por tecnologia, mas sempre com um olhar criativo e poético sobre o mundo digital.  
