@@ -4,6 +4,11 @@
 ✨ Apaixonada por tecnologia, mas sempre com um olhar criativo e poético sobre o mundo digital.  
 Minha essência mistura lógica, arte e propósito — criando projetos que unem **sustentabilidade, impacto social e inovação**.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ameliacavalcanti/ameliacavalcanti/main/Black%20White%20Modern%20Butterfly%20Star%20Metalic%20NFT%20Twitter%20Header%20(1).png" alt="Banner Amelia Cavalcanti" />
+</p>
+
+
 ---
 
 ## ⚡ Skills
