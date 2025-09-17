@@ -1,27 +1,30 @@
-# 👋 Olá, eu sou Amélia Cavalcanti  
+# 🌙 Amelia Cavalcanti
 
-🎓 Estudante de **Técnico em Informática** no CEET Giuseppe Altoé  
-💻 Apaixonada por **back-end** e **análise de dados**, sempre explorando como a tecnologia pode resolver problemas reais e gerar impacto positivo.  
-
----
-
-## 🚀 Habilidades
-- **Linguagens:** Python 🐍 | C# ⚙️  
-- **Banco de Dados:** SQLite | MySQL  
-- **Web:** HTML | CSS | FastAPI | JSON
+👩‍💻 Estudante de **Técnico em Informática** no **CEET Giuseppe Altoé**  
+✨ Apaixonada por tecnologia, mas sempre com um olhar criativo e poético sobre o mundo digital.  
+Minha essência mistura lógica, arte e propósito — criando projetos que unem **sustentabilidade, impacto social e inovação**.
 
 ---
 
-## 🌱 Projetos em desenvolvimento
-- **EcoSensor** → Projeto sustentável que une **tecnologia + meio ambiente**, com integração entre sensores, banco de dados e visualização web. *(em breve no GitHub!)*  
+## ⚡ Skills
+- **Python** 🐍 para análise e back-end  
+- **C#** ⚙️ voltado a exercícios, lógica e aplicações  
+- **Banco de Dados (SQLite / SQLAlchemy)** 🗄️  
+- **JSON & APIs** 🌐 para integração e comunicação de sistemas  
+
+---
+
+## 🌱 Em desenvolvimento
+🌿 **Eco Sensor** → Projeto que une **sustentabilidade + tecnologia**, com foco em monitoramento ambiental.  
+*(em breve no GitHub!)*
 
 ---
 
 ## 💡 Interesses
-- Desenvolvimento **Back-end**  
-- **Banco de Dados** & Análise de Dados  
-- Projetos que unem **tecnologia, criatividade e impacto social**  
-- Integração com **Arduino e IoT**  
+- Desenvolvimento Back-end  
+- Análise e Visualização de Dados  
+- Projetos que unem **tecnologia com impacto social**  
+- Estética digital, escrita e criação de experiências únicas  
 
 ---
 
@@ -34,5 +37,4 @@
 
 ---
 
-✨ Sempre em busca de **aprender, criar e compartilhar** conhecimento.  
-🌙 Acredito que a tecnologia pode ser não só funcional, mas também criativa e transformadora.  
+✨ Sempre explorando a interseção entre **arte e tecnologia**, buscando aprender e compartilhar conhecimento que inspire.
