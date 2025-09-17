@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ameliacavalcanti/ameliacavalcanti/main/Black%20White%20Modern%20Butterfly%20Star%20Metalic%20NFT%20Twitter%20Header%20(1).png" alt="Banner Amelia Cavalcanti" />
+  <img src="github.png" alt="Banner Amelia Cavalcanti" />
 </p>
 
 # 🌙 Amélia Cavalcanti
