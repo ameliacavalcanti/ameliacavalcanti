@@ -28,8 +28,9 @@
 ## 📚 Repositórios em Destaque
 🔹 [livros_poo](https://github.com/ameliacavalcanti/livros_poo) → Exercícios práticos em C#  
 🔹 [simulador-de-loteria](https://github.com/ameliacavalcanti/simulador-de-loteria) → Simulação simples de sorteio em C#  
-🔹 [meu-blog](https://github.com/ameliacavalcanti/meu-blog) → Blog pessoal desenvolvido em HTML e CSS
 🔹 [site-direito]([link](https://github.com/ameliacavalcanti/SiteDireito)) → Site informativo em HTML, CSS e JS
+🔹 [meu-blog](https://github.com/ameliacavalcanti/meu-blog) → Blog pessoal desenvolvido em HTML e CSS
+
 
 ---
 
